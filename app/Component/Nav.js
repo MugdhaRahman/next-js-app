@@ -4,7 +4,7 @@ export default function Nav() {
       <div className="flex justify-center items-center">
         <img src="/logo.svg" alt="Logo" />
       </div>
-      <div className="flex ms-auto">
+      <div className="flex ms-auto mt-4">
         <a
           className="text-white mr-[40px] text-lg font-semibold font-poppins"
           href="#"

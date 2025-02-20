@@ -11,9 +11,11 @@ export default function Hero() {
         Store – designed to elevate your brand in <br /> the gaming ecosystem.
       </p>
 
-      <a href="/" className="flex items-center space-x-2 mt-[160px]">
+      <a href="/" className="flex items-center space-x-2 mt-[160px] mb-[162px]">
         <img src="/white-dot.svg" alt="Logo" className="w-[32pz] h-[19px]" />
-        <span className="text-white text-[16px] font-extrabold">Discover our solutions</span>
+        <span className="text-white text-[16px] font-extrabold">
+          Discover our solutions
+        </span>
       </a>
     </div>
   );
